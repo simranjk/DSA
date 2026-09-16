@@ -41,3 +41,15 @@ DSA/
 ## 🎯 Goal
 
 Build strong problem-solving skills and prepare for technical interviews by consistently practicing DSA problems.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/simranjk/DSA/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/simranjk/DSA/tree/master/0027-remove-element) |
+<!---LeetCode Topics End-->
