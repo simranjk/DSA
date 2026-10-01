@@ -51,12 +51,14 @@ Build strong problem-solving skills and prepare for technical interviews by cons
 | [0027-remove-element](https://github.com/simranjk/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/simranjk/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/simranjk/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/simranjk/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/simranjk/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/simranjk/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/simranjk/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/simranjk/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +79,8 @@ Build strong problem-solving skills and prepare for technical interviews by cons
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/simranjk/DSA/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/simranjk/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
