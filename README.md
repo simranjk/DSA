@@ -50,6 +50,7 @@ Build strong problem-solving skills and prepare for technical interviews by cons
 | [0026-remove-duplicates-from-sorted-array](https://github.com/simranjk/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/simranjk/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/simranjk/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/simranjk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/simranjk/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/simranjk/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -83,4 +84,8 @@ Build strong problem-solving skills and prepare for technical interviews by cons
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/simranjk/DSA/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/simranjk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
