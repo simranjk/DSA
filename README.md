@@ -63,6 +63,7 @@ Build strong problem-solving skills and prepare for technical interviews by cons
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/simranjk/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/simranjk/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -83,9 +84,14 @@ Build strong problem-solving skills and prepare for technical interviews by cons
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/simranjk/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/simranjk/DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simranjk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/simranjk/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
